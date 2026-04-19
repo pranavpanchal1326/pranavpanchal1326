@@ -4,9 +4,9 @@
     <style><![CDATA[
       @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500');
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400');
-      .name { font-family: 'Syne', sans-serif; font-size: 42px; font-weight: 400; fill: #EEEAE4; letter-spacing: -1px; }
-      .line1 { font-family: 'JetBrains Mono', monospace; font-size: 14px; font-weight: 300; fill: #7A7672; }
-      .line2 { font-family: 'JetBrains Mono', monospace; font-size: 12px; font-weight: 300; fill: #3D3B38; }
+      .name { font-family: Syne, sans-serif; font-size: 42px; font-weight: 400; fill: #EEEAE4; letter-spacing: -1px; }
+      .line1 { font-family: JetBrains Mono, monospace; font-size: 14px; font-weight: 300; fill: #7A7672; }
+      .line2 { font-family: JetBrains Mono, monospace; font-size: 12px; font-weight: 300; fill: #3D3B38; }
     ]]></style>
   </defs>
   <rect width="830" height="180" fill="#0C0B0A"/>

@@ -1,17 +1,16 @@
 ![header](https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/header.svg)
-![divider](https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/divider.svg)
 
 <br/>
 
 ![](https://img.shields.io/badge/NOW-%20-111110?style=flat-square&labelColor=111110&color=111110&logoColor=C9B99A)
 
-`·` &nbsp; Architecting multi-agent systems for financial infrastructure
+`·` &nbsp; Architecting multi-agent AI systems for financial infrastructure
 
-`·` &nbsp; Building graph fraud intelligence from behavioral signal layers
+`·` &nbsp; Building graph-based fraud intelligence with behavioral signal layers
 
-`·` &nbsp; Shipping products across FastAPI, React, and Next.js 14
+`·` &nbsp; Shipping full-stack products across FastAPI · React · Next.js 14
 
-`·` &nbsp; Building infrastructure toward founding a technology company
+`·` &nbsp; Building toward founding a technology company
 
 <br/>
 
@@ -19,19 +18,19 @@
 
 ### [PropertyIQ](https://github.com/pranavpanchal1326/PropertyIQ)
 <sub>Python · Leaflet.js · React · FastAPI · PostgreSQL</sub>
-Detects valuation shifts and market drift for Indian banking due diligence.
+Provides valuation and market drift detection for Indian banking due diligence workflows.
 
 &nbsp;
 
 ### [Shadow Credit](https://github.com/pranavpanchal1326/shadow-credit)
 <sub>Claude API · PaddleOCR · FastAPI · SQLite · Next.js 14</sub>
-Converts informal MSME records into OCEN-compliant credit assessments using multi-agent orchestration.
+Converts informal MSME records into OCEN-compliant credit assessments using a multi-agent pipeline.
 
 &nbsp;
 
 ### [ORBY](https://github.com/pranavpanchal1326/orby)
 <sub>PyQt6 · Ollama · Vosk · DeepFace · Kokoro TTS</sub>
-Runs local Llama 3.2 companion with emotion detection and adaptive persona states.
+Runs an offline-first AI companion using local Llama 3.2, emotion detection, and adaptive persona states.
 
 &nbsp;
 
@@ -91,14 +90,9 @@ Automates multilingual video dubbing with translation and frame-accurate lip syn
 
 ![](https://img.shields.io/badge/CONNECT-%20-111110?style=flat-square&labelColor=111110&color=111110&logoColor=C9B99A)
 
-<sub>X &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→</sub>
-[@PranavP70219](https://x.com/PranavP70219)
-
-<sub>LinkedIn &nbsp;→</sub>
-[pranavpanchal1326](https://linkedin.com/in/pranavpanchal1326)
-
-<sub>GitHub &nbsp;&nbsp;&nbsp;→</sub>
-[pranavpanchal1326](https://github.com/pranavpanchal1326)
+<sub>X &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→</sub> [@PranavP70219](https://x.com/PranavP70219)<br/>
+<sub>LinkedIn &nbsp;→</sub> [pranavpanchal1326](https://linkedin.com/in/pranavpanchal1326)<br/>
+<sub>GitHub &nbsp;&nbsp;&nbsp;→</sub> [pranavpanchal1326](https://github.com/pranavpanchal1326)
 
 <br/>
 
