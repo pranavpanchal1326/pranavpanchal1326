@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="830" height="200" viewBox="0 0 830 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="830" height="200" fill="#0C0B0A"/>
+
+  <text x="24" y="24" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400" letter-spacing="1">OP-04</text>
+  <text x="80" y="24" fill="#EEEAE4" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="400" letter-spacing="0.8">ORBY</text>
+  <text x="806" y="24" text-anchor="end" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400" letter-spacing="1">ACTIVE</text>
+
+  <rect x="0" y="34.5" width="830" height="0.5" fill="#222220"/>
+
+  <text x="24" y="54" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">PyQt6 &#183; Ollama &#183; Vosk &#183; DeepFace &#183; Kokoro TTS</text>
+
+  <text x="24" y="88" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="300">Fully offline AI desktop companion running Llama 3.2 locally with no cloud dependency.</text>
+  <text x="24" y="110" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="300">Emotion detection via DeepFace feeds an FSM with 12 distinct persona states and adaptive voice response.</text>
+
+  <rect x="12" y="136" width="2" height="40" fill="#C9B99A"/>
+  <text x="24" y="158" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" font-style="italic">Zero-latency inference on Lenovo LOQ 15 &#183; AMD Ryzen 7 &#183; 16GB RAM &#183; Radeon 780M iGPU only.</text>
+
+  <rect x="0" y="199.5" width="830" height="0.5" fill="#222220"/>
+</svg>

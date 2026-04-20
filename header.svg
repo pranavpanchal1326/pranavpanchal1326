@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="830" height="180" viewBox="0 0 830 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style><![CDATA[
-      @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500');
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400');
-      .name { font-family: Syne, sans-serif; font-size: 42px; font-weight: 400; fill: #EEEAE4; letter-spacing: -1px; }
-      .line1 { font-family: JetBrains Mono, monospace; font-size: 14px; font-weight: 300; fill: #7A7672; }
-      .line2 { font-family: JetBrains Mono, monospace; font-size: 12px; font-weight: 300; fill: #3D3B38; }
-    ]]></style>
-  </defs>
-  <rect width="830" height="180" fill="#0C0B0A"/>
-  <text x="40" y="60" class="name">Pranav Panchal</text>
-  <text x="42" y="95" class="line1">Systems engineer. AI · Financial infrastructure · Autonomous agents.</text>
-  <text x="42" y="130" class="line2">Pune, India   ·   B.Tech CS '27   ·   Open to serious conversations</text>
+<svg width="830" height="200" viewBox="0 0 830 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="830" height="200" fill="#0C0B0A"/>
+
+  <rect x="10" y="10" width="0.5" height="12" fill="#3D3B38"/>
+  <rect x="10" y="10" width="12" height="0.5" fill="#3D3B38"/>
+  <rect x="808" y="10" width="12" height="0.5" fill="#3D3B38"/>
+  <rect x="819.5" y="10" width="0.5" height="12" fill="#3D3B38"/>
+
+  <text x="24" y="28" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400" letter-spacing="1">CASE FILE &#183; REF-2026-PP</text>
+
+  <text x="415" y="106" text-anchor="middle" fill="#EEEAE4" font-family="'Syne', sans-serif" font-size="46" font-weight="400">PRANAV PANCHAL</text>
+  <text x="415" y="132" text-anchor="middle" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="300" letter-spacing="3">SYSTEMS ENGINEER &#183; AI FINANCIAL INFRASTRUCTURE</text>
+
+  <rect x="792" y="128" width="1" height="40" fill="#C9B99A"/>
+  <text x="807" y="128" transform="rotate(90 807 128)" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400" letter-spacing="1">PUNE &#183; INDIA</text>
+
+  <rect x="0" y="199.5" width="830" height="0.5" fill="#222220"/>
 </svg>

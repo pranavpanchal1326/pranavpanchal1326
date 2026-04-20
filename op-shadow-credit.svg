@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="830" height="220" viewBox="0 0 830 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="830" height="220" fill="#0C0B0A"/>
+
+  <text x="24" y="24" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400" letter-spacing="1">OP-01</text>
+  <text x="80" y="24" fill="#EEEAE4" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="400" letter-spacing="0.8">SHADOW CREDIT</text>
+  <text x="806" y="24" text-anchor="end" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400" letter-spacing="1">ACTIVE</text>
+
+  <rect x="0" y="34.5" width="830" height="0.5" fill="#222220"/>
+
+  <text x="24" y="54" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">Claude API &#183; PaddleOCR &#183; FastAPI &#183; SQLite &#183; Next.js 14 &#183; XGBoost &#183; SHAP</text>
+
+  <text x="24" y="86" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="300">7-agent autonomous pipeline ingesting WhatsApp exports, UPI screenshots, and Khata CSVs.</text>
+  <text x="24" y="108" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="300">Produces OCEN-compliant credit memos for MSMEs with no formal financial records.</text>
+  <text x="24" y="130" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="300">Solves the last-mile lending gap that locked out 63 million Indian businesses from formal credit.</text>
+
+  <rect x="12" y="150" width="2" height="44" fill="#C9B99A"/>
+  <text x="24" y="174" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" font-style="italic">CreditWarmthScore derived from DoT-FIU SIM-swap MOU data - not repayment history.</text>
+
+  <rect x="0" y="219.5" width="830" height="0.5" fill="#222220"/>
+</svg>

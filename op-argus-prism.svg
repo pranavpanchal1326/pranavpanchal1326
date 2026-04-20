@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="830" height="220" viewBox="0 0 830 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="830" height="220" fill="#0C0B0A"/>
+
+  <text x="24" y="24" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400" letter-spacing="1">OP-02</text>
+  <text x="80" y="24" fill="#EEEAE4" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="400" letter-spacing="0.8">ARGUS PRISM</text>
+  <text x="806" y="24" text-anchor="end" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400" letter-spacing="1">ACTIVE</text>
+
+  <rect x="0" y="34.5" width="830" height="0.5" fill="#222220"/>
+
+  <text x="24" y="54" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">Neo4j &#183; XGBoost &#183; SHAP &#183; Python &#183; FastAPI</text>
+
+  <text x="24" y="86" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="300">Pre-crime mule detection using transaction graph topology and layered behavioral signal analysis.</text>
+  <text x="24" y="108" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="300">WarmthScore v2 aggregates 6 signals including SIM-swap frequency, UPI velocity, and recruiter network mapping.</text>
+  <text x="24" y="130" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="300">AutoSTR v2 generates FIU-IND compliant XML STRs at runtime - no human in the loop.</text>
+
+  <rect x="12" y="150" width="2" height="44" fill="#C9B99A"/>
+  <text x="24" y="174" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400" font-style="italic">Built for Union Bank of India iDEA 2.0 &#183; &#8377;13L prize pool &#183; Legal anchor: RBI KYC Master Direction 2016 &#167;38.</text>
+
+  <rect x="0" y="219.5" width="830" height="0.5" fill="#222220"/>
+</svg>
