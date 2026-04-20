@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="830" height="200" viewBox="0 0 830 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="830" height="200" fill="#0C0B0A"/>
+<svg width="830" height="160" viewBox="0 0 830 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="830" height="160" fill="#0C0B0A"/>
 
-  <rect x="10" y="10" width="0.5" height="12" fill="#3D3B38"/>
-  <rect x="10" y="10" width="12" height="0.5" fill="#3D3B38"/>
-  <rect x="808" y="10" width="12" height="0.5" fill="#3D3B38"/>
-  <rect x="819.5" y="10" width="0.5" height="12" fill="#3D3B38"/>
+  <text x="24" y="30" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="400">
+    <tspan fill="#3D3B38">[    0.000000]</tspan>
+    <tspan fill="#C9B99A"> PRANAV PANCHAL v2026.04 initializing</tspan>
+  </text>
+  <text x="24" y="56" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">
+    <tspan fill="#3D3B38">[    0.000001]</tspan>
+    <tspan fill="#7A7672"> Detected: systems engineer / founder-track</tspan>
+  </text>
+  <text x="24" y="80" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">
+    <tspan fill="#3D3B38">[    0.000003]</tspan>
+    <tspan fill="#7A7672"> Location: Pune, Maharashtra, IN</tspan>
+  </text>
+  <text x="24" y="104" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">
+    <tspan fill="#3D3B38">[    0.000007]</tspan>
+    <tspan fill="#7A7672"> Affiliation: DES Pune University &#183; CS &#183; 2027</tspan>
+  </text>
+  <text x="24" y="128" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">
+    <tspan fill="#3D3B38">[    0.000012]</tspan>
+    <tspan fill="#7A7672"> Objective: build and ship &#183; repeat until company</tspan>
+  </text>
 
-  <text x="24" y="28" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400" letter-spacing="1">CASE FILE &#183; REF-2026-PP</text>
-
-  <text x="415" y="106" text-anchor="middle" fill="#EEEAE4" font-family="'Syne', sans-serif" font-size="46" font-weight="400">PRANAV PANCHAL</text>
-  <text x="415" y="132" text-anchor="middle" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="300" letter-spacing="3">SYSTEMS ENGINEER &#183; AI FINANCIAL INFRASTRUCTURE</text>
-
-  <rect x="792" y="128" width="1" height="40" fill="#C9B99A"/>
-  <text x="807" y="128" transform="rotate(90 807 128)" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400" letter-spacing="1">PUNE &#183; INDIA</text>
-
-  <rect x="0" y="199.5" width="830" height="0.5" fill="#222220"/>
+  <rect x="0" y="159.5" width="830" height="0.5" fill="#222220"/>
 </svg>

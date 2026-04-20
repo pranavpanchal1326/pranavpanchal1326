@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="830" height="200" viewBox="0 0 830 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="830" height="200" fill="#0C0B0A"/>
+
+  <text x="24" y="16" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">*-language</text>
+  <text x="40" y="26" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">description:</text>
+  <text x="130" y="26" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Primary instruction set</text>
+  <text x="40" y="36" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">vendor:</text>
+  <text x="130" y="36" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Python Software Foundation et al.</text>
+  <text x="40" y="46" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">product:</text>
+  <text x="130" y="46" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Python &#183; TypeScript &#183; JavaScript &#183; SQL &#183; Bash</text>
+
+  <text x="24" y="56" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">*-ai_ml</text>
+  <text x="40" y="66" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">description:</text>
+  <text x="130" y="66" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Inference and training subsystem</text>
+  <text x="40" y="76" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">product:</text>
+  <text x="130" y="76" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Claude API &#183; LangChain &#183; XGBoost &#183; SHAP &#183; Ollama</text>
+
+  <text x="24" y="86" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">*-backend</text>
+  <text x="40" y="96" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">description:</text>
+  <text x="130" y="96" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Service layer</text>
+  <text x="40" y="106" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">product:</text>
+  <text x="130" y="106" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">FastAPI &#183; Flask &#183; Node.js &#183; SQLite &#183; PostgreSQL</text>
+
+  <text x="24" y="116" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">*-frontend</text>
+  <text x="40" y="126" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">description:</text>
+  <text x="130" y="126" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Interface layer</text>
+  <text x="40" y="136" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">product:</text>
+  <text x="130" y="136" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">React &#183; Next.js 14 &#183; Leaflet.js &#183; PyQt6</text>
+
+  <text x="24" y="146" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">*-graph</text>
+  <text x="40" y="156" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">description:</text>
+  <text x="130" y="156" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Graph and data layer</text>
+  <text x="40" y="166" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">product:</text>
+  <text x="130" y="166" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Neo4j &#183; PostgreSQL &#183; PaddleOCR</text>
+
+  <text x="24" y="176" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">*-tools</text>
+  <text x="40" y="186" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">description:</text>
+  <text x="130" y="186" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Build and operations</text>
+  <text x="40" y="196" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">product:</text>
+  <text x="130" y="196" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Git &#183; Docker &#183; Linux &#183; FFmpeg &#183; Ollama</text>
+</svg>

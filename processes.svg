@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="830" height="280" viewBox="0 0 830 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="830" height="280" fill="#0C0B0A"/>
+
+  <text x="24" y="24" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">USER</text>
+  <text x="118" y="24" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">PID</text>
+  <text x="176" y="24" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">%CPU</text>
+  <text x="240" y="24" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">%MEM</text>
+  <text x="306" y="24" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">STARTED</text>
+  <text x="394" y="24" fill="#3D3B38" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">COMMAND</text>
+  <rect x="0" y="34.5" width="830" height="0.5" fill="#222220"/>
+
+  <text x="24" y="52" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">pranav</text>
+  <text x="118" y="52" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">1001</text>
+  <text x="176" y="52" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">91.3</text>
+  <text x="240" y="52" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">78.2</text>
+  <text x="306" y="52" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Mar-27</text>
+  <text x="394" y="52" fill="#EEEAE4" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="400">shadow-credit</text>
+  <text x="394" y="64" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">--agents=7 --input=whatsapp,upi,khata</text>
+  <text x="394" y="76" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">--output=ocen-json --model=claude-sonnet</text>
+  <rect x="0" y="88.5" width="830" height="0.5" fill="#222220"/>
+
+  <text x="24" y="100" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">pranav</text>
+  <text x="118" y="100" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">1002</text>
+  <text x="176" y="100" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">87.6</text>
+  <text x="240" y="100" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">64.1</text>
+  <text x="306" y="100" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Mar-15</text>
+  <text x="394" y="100" fill="#EEEAE4" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="400">argus-prism</text>
+  <text x="394" y="112" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">--graph=neo4j --score=warmth-v2</text>
+  <text x="394" y="124" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">--output=fiu-ind-xml --signals=6</text>
+  <rect x="0" y="136.5" width="830" height="0.5" fill="#222220"/>
+
+  <text x="24" y="148" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">pranav</text>
+  <text x="118" y="148" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">1003</text>
+  <text x="176" y="148" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">43.2</text>
+  <text x="240" y="148" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">31.8</text>
+  <text x="306" y="148" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Feb-01</text>
+  <text x="394" y="148" fill="#EEEAE4" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="400">propertyiq</text>
+  <text x="394" y="160" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">--mode=b2b --target=banking-duediligence</text>
+  <text x="394" y="172" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">--status=deployed</text>
+  <rect x="0" y="184.5" width="830" height="0.5" fill="#222220"/>
+
+  <text x="24" y="196" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">pranav</text>
+  <text x="118" y="196" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">1004</text>
+  <text x="176" y="196" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">12.4</text>
+  <text x="240" y="196" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">22.1</text>
+  <text x="306" y="196" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Jan-10</text>
+  <text x="394" y="196" fill="#EEEAE4" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="400">orby</text>
+  <text x="394" y="208" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">--model=llama3.2:3b --inference=local</text>
+  <text x="394" y="220" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">--emotion=deepface --tts=kokoro</text>
+  <rect x="0" y="232.5" width="830" height="0.5" fill="#222220"/>
+
+  <text x="24" y="244" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">pranav</text>
+  <text x="118" y="244" fill="#C9B99A" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">1005</text>
+  <text x="176" y="244" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">8.1</text>
+  <text x="240" y="244" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">14.3</text>
+  <text x="306" y="244" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">Dec-20</text>
+  <text x="394" y="244" fill="#EEEAE4" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="400">voxdub</text>
+  <text x="394" y="256" fill="#7A7672" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="400">--asr=whisper --sync=wav2lip --translate=nllb</text>
+  <rect x="0" y="276.5" width="830" height="0.5" fill="#222220"/>
+</svg>
