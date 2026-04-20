@@ -1,101 +1,142 @@
 ![header](https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/header.svg)
 
-<br/>
-
-![](https://img.shields.io/badge/NOW-%20-111110?style=flat-square&labelColor=111110&color=111110&logoColor=C9B99A)
-
-`·` &nbsp; Architecting multi-agent AI systems for financial infrastructure
-
-`·` &nbsp; Building graph-based fraud intelligence with behavioral signal layers
-
-`·` &nbsp; Shipping full-stack products across FastAPI · React · Next.js 14
-
-`·` &nbsp; Building toward founding a technology company
+<code>STATUS</code> Building Shadow Credit into a production underwriting engine that turns informal MSME records into OCEN-compliant credit intelligence so lenders can make faster, evidence-backed decisions on borrowers usually excluded by documentation friction.
 
 <br/>
 
-![](https://img.shields.io/badge/WORK-%20-111110?style=flat-square&labelColor=111110&color=111110&logoColor=C9B99A)
+<code>CURRENT WORK</code>
 
-### [PropertyIQ](https://github.com/pranavpanchal1326/PropertyIQ)
-<sub>Python · Leaflet.js · React · FastAPI · PostgreSQL</sub>
-Provides valuation and market drift detection for Indian banking due diligence workflows.
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="4">
+	<tr>
+		<td><code>PIPELINE</code></td>
+		<td>Shadow Credit executes seven autonomous agents from OCR extraction to OCEN assessment assembly with schema-locked handoffs that keep underwriting outputs deterministic.</td>
+	</tr>
+	<tr>
+		<td><code>RISKGRAPH</code></td>
+		<td>ARGUS PRISM materializes Neo4j transaction neighborhoods into XGBoost feature sets and emits SHAP-grounded risk rationale at inference time for investigator actionability.</td>
+	</tr>
+	<tr>
+		<td><code>OCRCANON</code></td>
+		<td>A canonical record layer maps invoices, passbooks, and handwritten ledgers into normalized transaction primitives reused across credit underwriting and fraud intelligence.</td>
+	</tr>
+	<tr>
+		<td><code>SHIPLOOP</code></td>
+		<td>FastAPI services and Next.js 14 operator surfaces ship on one release track so model logic, API contracts, and decision interfaces stay version-consistent in production.</td>
+	</tr>
+</table>
+</div>
 
-&nbsp;
+<br/>
+
+<code>PROJECTS</code>
 
 ### [Shadow Credit](https://github.com/pranavpanchal1326/shadow-credit)
-<sub>Claude API · PaddleOCR · FastAPI · SQLite · Next.js 14</sub>
-Converts informal MSME records into OCEN-compliant credit assessments using a multi-agent pipeline.
+<code>Claude API · PaddleOCR · FastAPI · SQLite · Next.js 14</code>
 
-&nbsp;
+Shadow Credit is architected as a seven-agent underwriting system where OCR extraction, transaction reconstruction, policy reasoning, and report synthesis run as isolated services coordinated through FastAPI.
+It solves the MSME informal-record gap by converting fragmented financial traces into OCEN-compliant credit assessments without analyst-led spreadsheet reconstruction.
+*Signal: 7-agent autonomous pipeline with schema-gated transitions that enforce OCEN output integrity at every stage.*
+
+![divider](https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/divider.svg)
+
+### [ARGUS PRISM](https://github.com/pranavpanchal1326/argus-prism)
+<code>Neo4j · XGBoost · SHAP · Python</code>
+
+ARGUS PRISM models transaction ecosystems as connected risk graphs in Neo4j and scores entities with XGBoost using topology, velocity, and behavior-layer features.
+It solves pre-crime mule detection by combining graph context with model explainability so analysts can intervene before losses compound.
+*Signal: Neo4j-derived relational features are paired with SHAP at runtime so every alert carries feature-level forensic rationale.*
+
+![divider](https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/divider.svg)
+
+### [PropertyIQ](https://github.com/pranavpanchal1326/propertyiq)
+<code>Python · Leaflet.js · React · FastAPI · PostgreSQL</code>
+
+PropertyIQ combines geospatial intelligence, valuation comparables, and workflow APIs to deliver market-drift diagnostics in a B2B banking due-diligence stack.
+It solves fragmented valuation operations by unifying location evidence and underwriting context in a single system for credit and risk teams.
+*Signal: Leaflet map intelligence and PostgreSQL valuation traces are fused into one analyst workflow surface for decision-grade property review.*
+
+![divider](https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/divider.svg)
 
 ### [ORBY](https://github.com/pranavpanchal1326/orby)
-<sub>PyQt6 · Ollama · Vosk · DeepFace · Kokoro TTS</sub>
-Runs an offline-first AI companion using local Llama 3.2, emotion detection, and adaptive persona states.
+<code>PyQt6 · Ollama · Vosk · DeepFace · Kokoro TTS</code>
 
-&nbsp;
+ORBY runs a fully local companion architecture where Llama 3.2 inference, speech I/O, and persona-state transitions execute offline with PyQt6 orchestration.
+It solves privacy and reliability constraints for interactive assistants by removing cloud dependency from both cognition and multimodal interaction.
+*Signal: Entire voice-to-emotion-to-response loop operates offline using Ollama, Vosk, DeepFace, and Kokoro TTS.*
+
+![divider](https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/divider.svg)
 
 ### [VoxDub](https://github.com/pranavpanchal1326/voxdub)
-<sub>Whisper · Wav2Lip · NLLB · Python · FFmpeg</sub>
-Automates multilingual video dubbing with translation and frame-accurate lip synchronization.
+<code>Whisper · Wav2Lip · NLLB · FFmpeg</code>
 
-<sub>→ [github.com/pranavpanchal1326](https://github.com/pranavpanchal1326)</sub>
+VoxDub builds a multilingual dubbing pipeline that chains transcription, translation, voice generation, and lip-sync alignment into a deterministic media graph.
+It solves cross-language video distribution bottlenecks by producing synchronized dubbed outputs that preserve timing and facial articulation without manual frame editing.
+*Signal: Whisper transcription and Wav2Lip alignment are fused for frame-accurate multilingual dubbing output.*
 
 <br/>
 
-![](https://img.shields.io/badge/STACK-%20-111110?style=flat-square&labelColor=111110&color=111110&logoColor=C9B99A)
+<code>STACK</code>
 
-<table>
-<tr>
-<td><sub>Language</sub></td>
-<td><sub>Python · TypeScript · JavaScript · SQL · Bash</sub></td>
-</tr>
-<tr>
-<td><sub>AI / ML</sub></td>
-<td><sub>Claude API · LangChain · XGBoost · SHAP · Ollama · Whisper · PaddleOCR</sub></td>
-</tr>
-<tr>
-<td><sub>Backend</sub></td>
-<td><sub>FastAPI · Flask · Node.js · SQLite · PostgreSQL</sub></td>
-</tr>
-<tr>
-<td><sub>Frontend</sub></td>
-<td><sub>React · Next.js 14 · Leaflet.js · PyQt6</sub></td>
-</tr>
-<tr>
-<td><sub>Data / Graph</sub></td>
-<td><sub>Neo4j · PostgreSQL · PaddleOCR · SQLite</sub></td>
-</tr>
-<tr>
-<td><sub>Tools</sub></td>
-<td><sub>Git · Docker · Linux · FFmpeg · Ollama</sub></td>
-</tr>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="4">
+	<tr>
+		<td align="right">Language</td>
+		<td>Python · TypeScript · JavaScript · SQL · Bash</td>
+	</tr>
+	<tr>
+		<td align="right">AI / ML</td>
+		<td>Claude API · LangChain · XGBoost · SHAP · Ollama · Whisper · PaddleOCR</td>
+	</tr>
+	<tr>
+		<td align="right">Backend</td>
+		<td>FastAPI · Flask · Node.js · SQLite · PostgreSQL</td>
+	</tr>
+	<tr>
+		<td align="right">Frontend</td>
+		<td>React · Next.js 14 · Leaflet.js · PyQt6</td>
+	</tr>
+	<tr>
+		<td align="right">Data / Graph</td>
+		<td>Neo4j · PostgreSQL</td>
+	</tr>
+	<tr>
+		<td align="right">Tools</td>
+		<td>Git · Docker · Linux · FFmpeg · Ollama</td>
+	</tr>
+</table>
+</div>
+
+<br/>
+
+<code>STATS</code>
+
+<table border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td><img src="https://github-readme-stats.vercel.app/api?username=pranavpanchal1326&show_icons=false&hide_border=true&bg_color=0C0B0A&title_color=C9B99A&text_color=7A7672&hide=contribs,prs,issues&rank_icon=github&custom_title=Activity" height="140"/></td>
+		<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavpanchal1326&layout=compact&hide_border=true&bg_color=0C0B0A&title_color=C9B99A&text_color=7A7672&hide=jupyter%20notebook,css,html&langs_count=6&custom_title=Languages" height="140"/></td>
+	</tr>
 </table>
 
 <br/>
 
-![](https://img.shields.io/badge/STATS-%20-111110?style=flat-square&labelColor=111110&color=111110&logoColor=C9B99A)
+<code>CONNECT</code>
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=pranavpanchal1326&show_icons=false&hide_border=true&bg_color=0C0B0A&title_color=C9B99A&text_color=7A7672&hide=contribs,prs,issues&rank_icon=github&custom_title=Activity" height="140"/>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavpanchal1326&layout=compact&hide_border=true&bg_color=0C0B0A&title_color=C9B99A&text_color=7A7672&hide=jupyter%20notebook,css,html&langs_count=6&custom_title=Languages" height="140"/>
-</td>
-</tr>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="2">
+	<tr>
+		<td><code>$ X</code></td>
+		<td><a href="https://x.com/PranavP70219">https://x.com/PranavP70219</a></td>
+	</tr>
+	<tr>
+		<td><code>$ LINKEDIN</code></td>
+		<td><a href="https://linkedin.com/in/pranavpanchal1326">https://linkedin.com/in/pranavpanchal1326</a></td>
+	</tr>
+	<tr>
+		<td><code>$ GITHUB</code></td>
+		<td><a href="https://github.com/pranavpanchal1326">https://github.com/pranavpanchal1326</a></td>
+	</tr>
 </table>
+</div>
 
-<br/>
-
-![](https://img.shields.io/badge/CONNECT-%20-111110?style=flat-square&labelColor=111110&color=111110&logoColor=C9B99A)
-
-<sub>X &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→</sub> [@PranavP70219](https://x.com/PranavP70219)<br/>
-<sub>LinkedIn &nbsp;→</sub> [pranavpanchal1326](https://linkedin.com/in/pranavpanchal1326)<br/>
-<sub>GitHub &nbsp;&nbsp;&nbsp;→</sub> [pranavpanchal1326](https://github.com/pranavpanchal1326)
-
-<br/>
-
-<p align="center">
-<sub style="color:#3D3B38;">Pune &nbsp;·&nbsp; 2026</sub>
-</p>
+<p align="right"><sub style="color:#3D3B38;">Pune · India · 2026</sub></p>
