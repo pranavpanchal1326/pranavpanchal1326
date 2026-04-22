@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="830" height="160" viewBox="0 0 830 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="830" height="160" fill="#0C0B0A"/>
-
-  <text x="24" y="30" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="400">
-    <tspan fill="#3D3B38">[    0.000000]</tspan>
-    <tspan fill="#C9B99A"> PRANAV PANCHAL v2026.04 initializing</tspan>
-  </text>
-  <text x="24" y="56" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">
-    <tspan fill="#3D3B38">[    0.000001]</tspan>
-    <tspan fill="#7A7672"> Detected: systems engineer / founder-track</tspan>
-  </text>
-  <text x="24" y="80" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">
-    <tspan fill="#3D3B38">[    0.000003]</tspan>
-    <tspan fill="#7A7672"> Location: Pune, Maharashtra, IN</tspan>
-  </text>
-  <text x="24" y="104" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">
-    <tspan fill="#3D3B38">[    0.000007]</tspan>
-    <tspan fill="#7A7672"> Affiliation: DES Pune University &#183; CS &#183; 2027</tspan>
-  </text>
-  <text x="24" y="128" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="400">
-    <tspan fill="#3D3B38">[    0.000012]</tspan>
-    <tspan fill="#7A7672"> Objective: build and ship &#183; repeat until company</tspan>
-  </text>
-
-  <rect x="0" y="159.5" width="830" height="0.5" fill="#222220"/>
+<svg width="830" height="180" viewBox="0 0 830 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500');
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400');
+      .name { font-family: Syne, sans-serif; font-size: 42px; font-weight: 400; fill: #EEEAE4; letter-spacing: -1px; }
+      .line1 { font-family: JetBrains Mono, monospace; font-size: 14px; font-weight: 300; fill: #7A7672; }
+      .line2 { font-family: JetBrains Mono, monospace; font-size: 12px; font-weight: 300; fill: #3D3B38; }
+    ]]></style>
+  </defs>
+  <rect width="830" height="180" fill="#0C0B0A"/>
+  <text x="40" y="60" class="name">Pranav Panchal</text>
+  <text x="42" y="95" class="line1">Systems engineer. AI · Financial infrastructure · Autonomous agents.</text>
+  <text x="42" y="130" class="line2">Pune, India   ·   B.Tech CS '27   ·   Open to serious conversations</text>
 </svg>
