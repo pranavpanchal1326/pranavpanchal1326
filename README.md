@@ -8,25 +8,34 @@
 
 <div align="center">
   <a href="https://x.com/PranavP70219">
-    <img src="https://img.shields.io/badge/-@PranavP70219-0a0a0a?style=flat-square&logo=x&logoColor=58C4DD" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=58C4DD" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/pranavpanchal1326">
-    <img src="https://img.shields.io/badge/-pranavpanchal1326-0a0a0a?style=flat-square&logo=linkedin&logoColor=58C4DD" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=58C4DD" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=pranavpanchal1326&style=flat-square&color=58C4DD&label=profile+views&labelColor=0a0a0a" />
+  <img src="https://komarev.com/ghpvc/?username=pranavpanchal1326&style=for-the-badge&color=58C4DD&label=profile+views&labelColor=0a0a0a" />
 </div>
 
 ---
 
 ### `[ WHOAMI ]`
 
-I'm a CS student at **DES Pune University, Pune** who builds software that does more than run — it **thinks, decides, and acts.**
-
-I've shipped fully offline AI companions that initiate their own conversations, B2B SaaS platforms for enterprise-grade property valuation, multi-agent credit systems reconstructing financial identity for India's ghost MSMEs, and fraud detection engines targeting the 72-hour window before illicit UPI funds arrive. I don't prototype — I ship.
-
-> *When I'm not architecting ML pipelines, I'm probably thinking three moves ahead on Chess.com.*
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      I'm a CS student at <strong>DES Pune University, Pune</strong> who builds software that does more than run — it <strong>thinks, decides, and acts.</strong>
+      <br/><br/>
+      I've shipped fully offline AI companions that initiate their own conversations, B2B SaaS platforms for enterprise-grade property valuation, multi-agent credit systems reconstructing financial identity for India's ghost MSMEs, and fraud detection engines targeting the 72-hour window before illicit UPI funds arrive. I don't prototype — I ship.
+      <br/><br/>
+      <blockquote><em>When I'm not architecting ML pipelines, I'm probably thinking three moves ahead on Chess.com.</em></blockquote>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/se.jpg" width="350" />
+    </td>
+  </tr>
+</table>
 
 ---
 
