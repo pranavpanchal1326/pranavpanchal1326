@@ -22,20 +22,22 @@
 
 ### `[ WHOAMI ]`
 
+<div align="center">
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top" align="left">
       I'm a CS student at <strong>DES Pune University, Pune</strong> who builds software that does more than run — it <strong>thinks, decides, and acts.</strong>
       <br/><br/>
       I've shipped fully offline AI companions that initiate their own conversations, B2B SaaS platforms for enterprise-grade property valuation, multi-agent credit systems reconstructing financial identity for India's ghost MSMEs, and fraud detection engines targeting the 72-hour window before illicit UPI funds arrive. I don't prototype — I ship.
       <br/><br/>
       <blockquote><em>When I'm not architecting ML pipelines, I'm probably thinking three moves ahead on Chess.com.</em></blockquote>
     </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/se.jpg" width="350" />
+    <td width="45%" align="center">
+      <img src="https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/se.jpg" width="380" />
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -87,6 +89,7 @@
 
 ### `[ FLAGSHIP BUILDS ]`
 
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -118,6 +121,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 ---
 
@@ -139,7 +143,7 @@
 <div align="center">
   <img
     src="https://gh-stats.com/api/top-langs?username=pranavpanchal1326&layout=compact&hide_border=true&title_color=58C4DD&text_color=58C4DD&bg_color=00000000&langs_count=6&hide=html,css"
-    width="100%"
+    width="55%"
     alt="Top Languages"
   />
 </div>
