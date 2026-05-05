@@ -6,17 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=58C4DD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pranav+Panchal+%E2%80%94;I+build+systems+that+think%2C+decide+%26+act.;ML+Engineer+%7C+AI+Architect+%7C+CS+Student;DES+Pune+University+%7C+Open+to+Internships" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://x.com/PranavP70219">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=58C4DD" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/pranavpanchal1326">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=58C4DD" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=pranavpanchal1326&style=for-the-badge&color=58C4DD&label=profile+views&labelColor=0a0a0a" />
-</div>
+
 
 ---
 
