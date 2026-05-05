@@ -116,13 +116,21 @@ I've shipped fully offline AI companions that initiate their own conversations, 
 
 <div align="center">
   <img
+    src="https://gh-stats.com/api?username=pranavpanchal1326&show_icons=true&hide_border=true&title_color=58C4DD&text_color=58C4DD&bg_color=00000000"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpanchal1326&theme=transparent&hide_border=true&title_color=58C4DD&text_color=58C4DD&sideNums=58C4DD&sideLabels=666666&ring=58C4DD&fire=58C4DD&currStreakNum=58C4DD&dates=555555"
     width="49%"
     alt="GitHub Streak"
   />
+</div>
+
+<div align="center">
   <img
     src="https://gh-stats.com/api/top-langs?username=pranavpanchal1326&layout=compact&hide_border=true&title_color=58C4DD&text_color=58C4DD&bg_color=00000000&langs_count=6&hide=html,css"
-    width="40%"
+    width="100%"
     alt="Top Languages"
   />
 </div>
@@ -139,11 +147,19 @@ I've shipped fully offline AI companions that initiate their own conversations, 
 
 ### `[ CONNECT ]`
 
-```text
-$ x         →   x.com/PranavP70219
-$ linkedin  →   linkedin.com/in/pranavpanchal1326
-$ github    →   github.com/pranavpanchal1326
-```
+<div align="center">
+  <a href="https://x.com/PranavP70219">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=58C4DD" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/pranavpanchal1326">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=58C4DD" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/pranavpanchal1326">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=58C4DD" />
+  </a>
+</div>
 
 <div align="center">
   <sub><code>Systems that decide.</code></sub>
