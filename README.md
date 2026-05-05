@@ -116,7 +116,7 @@ I've shipped fully offline AI companions that initiate their own conversations, 
     alt="GitHub Streak"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpanchal1326&layout=compact&hide_border=true&title_color=58C4DD&text_color=58C4DD&theme=transparent&langs_count=6&hide=html,css"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavpanchal1326&layout=compact&hide_border=true&title_color=58C4DD&text_color=58C4DD&bg_color=00000000&langs_count=6&hide=html,css"
     width="40%"
     alt="Top Languages"
   />
