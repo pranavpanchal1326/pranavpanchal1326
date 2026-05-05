@@ -39,6 +39,7 @@ I've shipped fully offline AI companions that initiate their own conversations, 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=58C4DD)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=58C4DD)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=58C4DD)
+<br/>
 
 **AI / ML**
 
@@ -46,6 +47,7 @@ I've shipped fully offline AI companions that initiate their own conversations, 
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-0a0a0a?style=for-the-badge&logo=opencv&logoColor=58C4DD)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=58C4DD)
 ![NLP](https://img.shields.io/badge/NLP_Whisper_TTS-0a0a0a?style=for-the-badge&logo=amazon-alexa&logoColor=58C4DD)
+<br/>
 
 **Backend**
 
@@ -53,6 +55,7 @@ I've shipped fully offline AI companions that initiate their own conversations, 
 ![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=58C4DD)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=58C4DD)
 ![Socket.io](https://img.shields.io/badge/Socket.io-0a0a0a?style=for-the-badge&logo=socket.io&logoColor=58C4DD)
+<br/>
 
 **Frontend**
 
@@ -60,12 +63,14 @@ I've shipped fully offline AI companions that initiate their own conversations, 
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=58C4DD)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=58C4DD)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=58C4DD)
+<br/>
 
 **Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=58C4DD)
 ![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=58C4DD)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=58C4DD)
+<br/>
 
 </div>
 
