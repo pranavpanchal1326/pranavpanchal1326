@@ -1,18 +1,18 @@
 <!--
 ────────────────────────────────────────────────────────────
   pranav panchal · profile README
-  assets: aurora.jpg · wordmark.png · knight.jpg · work.png · craft.png · void.jpg
-  Section type is baked into work.png / craft.png so the fonts stay consistent.
+  assets used: aurora.jpg · wordmark.png · knight.jpg · void.jpg
+  (work.png / craft.png no longer needed — now tables)
 ────────────────────────────────────────────────────────────
 -->
 
 <div align="center">
 
-<img src="assets/aurora.jpg" width="100%" alt="Aurora of light bending through deep space" />
+<img src="assets/aurora.jpg" width="88%" alt="Aurora of light bending through deep space" />
 
 <br/><br/>
 
-<img src="assets/wordmark.png" width="210" alt="Pranav Panchal" />
+<img src="assets/wordmark.png" width="190" alt="Pranav Panchal" />
 
 <br/>
 
@@ -24,16 +24,9 @@
 
 ###### ▍ ABOUT
 
-<table border="0">
-<tr>
-<td width="38%" valign="top"><img src="assets/knight.jpg" width="100%" alt="Armoured knight resting in the dark, cradling a cat" /></td>
-<td width="62%" valign="top">
-Final-year computer-science student building in <b>AI/ML</b> — retrieval systems, multi-agent pipelines, and models you can actually explain.
-<br/><br/>
-I ship complete products, not demos: I sweat the empty states, the failure paths, and the parts no one applauds but everything depends on.
-</td>
-</tr>
-</table>
+|  |  |
+|:--:|:--|
+| <img src="assets/knight.jpg" width="180" alt="Armoured knight resting in the dark, cradling a cat" /> | Final-year computer-science student building in **AI/ML** — retrieval systems, multi-agent pipelines, and models you can actually explain. <br/><br/> I ship complete products, not demos: I sweat the empty states, the failure paths, and the parts no one applauds but everything depends on. |
 
 ```console
 $ pranav --status
@@ -45,27 +38,29 @@ $ pranav --status
 
 ###### ▍ SELECTED WORK
 
-<img src="assets/work.png" width="100%" alt="ARGUS-PRISM, PropertyIQ and Orby project summaries" />
-
-<sub>→&nbsp; open&nbsp; [ARGUS-PRISM](https://github.com/pranavpanchal1326/ARGUS-PRISM) &nbsp;·&nbsp; [PropertyIQ](https://github.com/pranavpanchal1326/PropertyIQ) &nbsp;·&nbsp; [Orby](https://github.com/pranavpanchal1326/orby)</sub>
+|  | Project | What it does | Stack |
+|:--:|:--|:--|:--|
+| `01` | **[ARGUS-PRISM](https://github.com/pranavpanchal1326/ARGUS-PRISM)** | Flags money-mule accounts **~72h before** illicit funds move — five engines in concert. *iDEA 2.0 · National Finalist · ★10* | `Neo4j` `FastAPI` `XGBoost` `SHAP` |
+| `02` | **[PropertyIQ](https://github.com/pranavpanchal1326/PropertyIQ)** | Auditable ML property valuation for Indian banks — SHAP, drift detection, interactive map. *★7* | `FastAPI` `React` `PostgreSQL` `Leaflet` |
+| `03` | **[Orby](https://github.com/pranavpanchal1326/orby)** | A **fully offline** Windows AI companion — emotion detection, local speech, animated character. | `PyQt6` `Vosk` `Kokoro-TTS` `OpenCV` |
 
 ###### ▍ CRAFT
 
-<img src="assets/craft.png" width="100%" alt="Technical stack across languages, ML, LLM, backend, data and frontend" />
+| Area | Tools |
+|:--|:--|
+| **Languages** | `Python` `TypeScript` `JavaScript` `SQL` |
+| **ML / AI** | `PyTorch` `scikit-learn` `XGBoost` `SHAP` `OpenCV` |
+| **LLM** | `Claude API` `RAG` `PaddleOCR` `Hugging Face` |
+| **Backend** | `FastAPI` `Flask` `Node.js` |
+| **Data** | `Neo4j` `PostgreSQL` |
+| **Frontend** | `React` `Next.js` `Tailwind` `shadcn/ui` |
 
-###### ▍ RECOGNITION
-
-<sub>
-◦&nbsp; <b>iDEA 2.0</b> (Union Bank of India) — national finalist, ARGUS-PRISM<br/>
-◦&nbsp; Orchestron 2026 · Agentic AI &nbsp;&&nbsp; NAV-उन्मेष 2026 · startup pitch<br/>
-◦&nbsp; AWS &amp; Replit hackathons — Sarkaar Saathi, Legacy
-</sub>
 
 <br/>
 
 <div align="center">
 
-<img src="assets/void.jpg" width="72%" alt="Lone blue figure seated on a red planet beneath a field of stars" />
+<img src="assets/void.jpg" width="55%" alt="Lone blue figure seated on a red planet beneath a field of stars" />
 
 <br/><br/>
 
