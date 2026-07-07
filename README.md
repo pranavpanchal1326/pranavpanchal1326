@@ -1,8 +1,7 @@
 <!--
 ────────────────────────────────────────────────────────────
   pranav panchal · profile README
-  assets: aurora.jpg · wordmark.png · knight.jpg · void.jpg
-  Card emojis are optional — delete them if you prefer none.
+  assets: aurora.jpg · wordmark.png · knight.jpg · void.jpg · quote.png
 ────────────────────────────────────────────────────────────
 -->
 
@@ -90,7 +89,7 @@ Flags money-mule accounts **~72h before** illicit funds move, fusing FlowGraph, 
 `Neo4j` &nbsp;`FastAPI` &nbsp;`XGBoost` &nbsp;`SHAP`
 
 → [Repository](https://github.com/pranavpanchal1326/ARGUS-PRISM)  
-*iDEA 2.0 · National Finalist · ★10*
+*iDEA 2.0 · National Finalist*
 
 </td>
 <td width="50%" valign="top">
@@ -103,8 +102,7 @@ A B2B platform pairing ML valuations with SHAP explainability, drift detection a
 
 `FastAPI` &nbsp;`React` &nbsp;`PostgreSQL` &nbsp;`Leaflet`
 
-→ [Repository](https://github.com/pranavpanchal1326/PropertyIQ)  
-*★7*
+→ [Repository](https://github.com/pranavpanchal1326/PropertyIQ)
 
 </td>
 </tr>
@@ -124,15 +122,7 @@ A fully offline Windows desktop companion — emotion detection, local speech, a
 </td>
 <td width="50%" valign="top">
 
-✨ &nbsp; **apna** &nbsp; `coming soon`
-
-The group chat, but it actually does things.
-
-A shared-life app for friend groups — split expenses, live location, trip planning and memories in one place, on its own design system (Dhaga). Beta-testing on a real trip this summer.
-
-`Next.js` &nbsp;`Supabase` &nbsp;`React Native`
-
-*In private beta.*
+&nbsp;
 
 </td>
 </tr>
@@ -148,14 +138,34 @@ A shared-life app for friend groups — split expenses, live location, trip plan
 
 <br/>
 
-| Area | Tools |
-|:--|:--|
-| **Languages** | `Python` `TypeScript` `JavaScript` `SQL` |
-| **ML / AI** | `PyTorch` `scikit-learn` `XGBoost` `SHAP` `OpenCV` |
-| **LLM** | `Claude API` `RAG` `PaddleOCR` `Hugging Face` |
-| **Backend** | `FastAPI` `Flask` `Node.js` |
-| **Data** | `Neo4j` `PostgreSQL` |
-| **Frontend** | `React` `Next.js` `Tailwind` `shadcn/ui` |
+<table>
+<tr>
+<td width="46%" valign="middle">
+<img src="assets/void.jpg" width="100%" alt="Lone blue figure seated on a red planet beneath a field of stars" />
+</td>
+<td width="54%" valign="top">
+
+<b>Languages</b><br/>
+<code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>SQL</code>
+<br/><br/>
+<b>ML / AI</b><br/>
+<code>PyTorch</code> <code>scikit-learn</code> <code>XGBoost</code> <code>SHAP</code> <code>OpenCV</code>
+<br/><br/>
+<b>LLM</b><br/>
+<code>Claude API</code> <code>RAG</code> <code>PaddleOCR</code> <code>Hugging Face</code>
+<br/><br/>
+<b>Backend</b><br/>
+<code>FastAPI</code> <code>Flask</code> <code>Node.js</code>
+<br/><br/>
+<b>Data</b><br/>
+<code>Neo4j</code> <code>PostgreSQL</code>
+<br/><br/>
+<b>Frontend</b><br/>
+<code>React</code> <code>Next.js</code> <code>Tailwind</code> <code>shadcn/ui</code>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -178,6 +188,8 @@ If you need someone who ships complete products and sweats the details — reach
 [![X](https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=white)](https://x.com/PranavP70219)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://pranav-portfollio.web.app)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavpanchal1326@gmail.com)
 
 </div>
 
@@ -186,17 +198,7 @@ If you need someone who ships complete products and sweats the details — reach
 <br/>
 
 <div align="center">
-<img src="assets/void.jpg" width="42%" alt="Lone blue figure seated on a red planet beneath a field of stars" />
+
+<img src="assets/quote.png" width="72%" alt="What stands in the way becomes the way. — Marcus Aurelius" />
+
 </div>
-
-<br/>
-
-<table>
-<tr><td align="center">
-
-<i>fabricando fit faber.</i>
-
-<sub>by making, one becomes the maker.</sub>
-
-</td></tr>
-</table>
