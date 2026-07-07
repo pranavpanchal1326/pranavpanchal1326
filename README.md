@@ -1,8 +1,7 @@
 <!--
 ────────────────────────────────────────────────────────────
   PRANAV PANCHAL · github.com/pranavpanchal1326 · profile README
-  Style: electric ultramarine on black · monospace · numbered blocks
-  Assets live in /assets — already wired.
+  Assets wired via /assets.
 ────────────────────────────────────────────────────────────
 -->
 
@@ -12,126 +11,82 @@
 
 <br/><br/>
 
-<code>OPEN&nbsp;SOURCE&nbsp;&nbsp;•&nbsp;&nbsp;BUILDING&nbsp;IN&nbsp;PUBLIC&nbsp;&nbsp;•&nbsp;&nbsp;PUNE,&nbsp;IN</code>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=44&letterSpacing=2px&pause=99999&color=4F5BFF&center=true&vCenter=true&repeat=false&width=780&height=64&lines=PRANAV+PANCHAL" alt="PRANAV PANCHAL" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1400&color=8A93B0&center=true&vCenter=true&width=780&height=26&lines=The+engineer+that+ships+with+you." alt="" />
+<img src="assets/wordmark.png" width="340" alt="Pranav Panchal" />
 
 <br/>
 
-<code>/\-_=+|&lt; -/= ~:*-/ &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; SYSTEMS &nbsp;•&nbsp; FOUNDER-IN-PROGRESS &nbsp; /\-_=+|&lt; -/=</code>
+<sub>AI/ML ENGINEER&nbsp;&nbsp;·&nbsp;&nbsp;I BUILD PRODUCTION SYSTEMS, NOT DEMOS&nbsp;&nbsp;·&nbsp;&nbsp;PUNE, IN</sub>
 
 </div>
 
 <br/>
 
-```bash
-$ whoami
-> pranav — builds production systems, not demos.
-$ cat ~/focus.txt
-> retrieval · multi-agent pipelines · explainable ML · dark, deliberate design
-$ echo $NORTH_STAR
-> a company of my own — everything here is a rehearsal for it
-```
-
-<br/>
-
-<div align="center"><code> S E L E C T E D &nbsp; W O R K </code></div>
-
-<br/>
+---
 
 <table border="0">
 <tr>
-<td width="52%" valign="middle"><img src="assets/knight.jpg" width="100%" alt="" /></td>
-<td width="48%" valign="middle">
+<td width="46%" valign="top">
+<img src="assets/knight.jpg" width="100%" alt="" />
+</td>
+<td width="54%" valign="top">
+<br/>
 
-<code># 01 · DETECT</code>
+I build software the way this knight sits in the dark — quietly, patiently, guarding the small things that matter. The empty states. The failure paths. The parts no one applauds but everything depends on.
 
-## ARGUS-PRISM
-
-A five-engine, pre-crime mule-account detection system — flow-graph analysis, behavioural signals, taint propagation, and recruiter-network mapping, working in concert.
-
-**National finalist, iDEA 2.0** (Union Bank of India).
-
-<a href="https://github.com/pranavpanchal1326/ARGUS-PRISM"><code>&nbsp;view repo&nbsp;→&nbsp;</code></a>
+Final-year computer-science student working in **AI/ML** — retrieval systems, multi-agent pipelines, and models you can actually explain. I ship complete products, and I sweat the details most people skip.
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<table border="0">
-<tr>
-<td width="48%" valign="middle">
-
-<code># 02 · VALUE</code>
-
-## PropertyIQ
-
-A B2B property-valuation platform for Indian banks. ML valuations made trustworthy through SHAP explainability, drift detection, and an interactive geospatial map.
-
-**Rigour a lender can actually sign off on.**
-
-<a href="https://github.com/pranavpanchal1326/PropertyIQ"><code>&nbsp;view repo&nbsp;→&nbsp;</code></a>
-
-</td>
-<td width="52%" valign="middle"><img src="assets/void.jpg" width="100%" alt="" /></td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<code># 03 · COMPANION</code>
-
-## Orby
-
-An offline Windows AI companion — emotion detection, local speech, a hand-drawn character. A full desktop presence that runs entirely on your machine.
-
-</div>
-
-```bash
-$ orby --start
-> booting companion · no cloud · no leash · 100% local
+```
+$ pranav --status
+→ open to     AI/ML internships & serious collaborators
+→ currently   ML interview prep · shipping side projects
+→ timezone    Pune, India · IST (UTC+5:30)
 ```
 
-<div align="center"><a href="https://github.com/pranavpanchal1326/orby"><code>&nbsp;view repo&nbsp;→&nbsp;</code></a></div>
+<br/>
+
+---
+
+### Selected work
+
+|     |     |     |
+|:---:|:----|:----|
+| `01` | **[ARGUS-PRISM](https://github.com/pranavpanchal1326/ARGUS-PRISM)** | Pre-crime mule-account detection — five engines in concert. &nbsp;·&nbsp; *iDEA 2.0 National Finalist* |
+| `02` | **[PropertyIQ](https://github.com/pranavpanchal1326/PropertyIQ)** | Explainable ML property valuation, built for Indian banks. |
+| `03` | **[Orby](https://github.com/pranavpanchal1326/orby)** | Offline, on-device AI companion for Windows. |
 
 <br/>
 
-<div align="center"><code> C R A F T </code></div>
+---
 
-<br/>
+### Craft
 
-```txt
-LANG    Python · TypeScript
-ML      PyTorch · scikit-learn · XGBoost · OpenCV
-BACK    FastAPI · Flask · Neo4j · PostgreSQL
-FRONT   React · Next.js · Tailwind
+```
+languages   Python · TypeScript · JavaScript · SQL
+ml / ai     PyTorch · scikit-learn · XGBoost · SHAP · OpenCV · PaddleOCR
+llm         Claude API · RAG pipelines · Hugging Face
+backend     FastAPI · Flask · Node.js
+data        Neo4j · PostgreSQL
+frontend    React · Next.js · Tailwind · shadcn/ui
+tooling     Docker · Git · Linux · Vercel
 ```
 
 <br/>
 
 <div align="center">
 
-<code>/\-_=+|&lt; -/= ~:*-/</code>
+<img src="assets/void.jpg" width="100%" alt="" />
 
 <br/><br/>
 
-[<code>&nbsp;LINKEDIN&nbsp;</code>](https://linkedin.com/in/pranavpanchal) &nbsp; [<code>&nbsp;X&nbsp;</code>](https://x.com/PranavP70219) &nbsp; [<code>&nbsp;EMAIL&nbsp;</code>](mailto:pranavpanchal1326@gmail.com)
+[LinkedIn](https://linkedin.com/in/pranavpanchal1326) &nbsp;·&nbsp; [X](https://x.com/PranavP70219) &nbsp;·&nbsp; [Portfolio](https://pranav-portfollio.web.app) &nbsp;·&nbsp; [Email](mailto:pranavpanchal1326@gmail.com)
 
-<br/><br/>
+<br/>
 
 <i>Fabricando fit faber.</i><br/>
 <sub>By making, one becomes the maker.</sub>
-
-<br/><br/>
-
-<sub><code>PRANAV PANCHAL · 2026</code></sub>
 
 </div>
