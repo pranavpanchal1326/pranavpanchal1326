@@ -10,7 +10,6 @@
 
 <img src="assets/aurora.jpg" width="86%" alt="Aurora of light bending through deep space" />
 
-<br/><br/>
 
 <img src="assets/wordmark.png" width="190" alt="Pranav Panchal" />
 
