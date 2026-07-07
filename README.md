@@ -1,7 +1,9 @@
 <!--
 ────────────────────────────────────────────────────────────
   PRANAV PANCHAL · github.com/pranavpanchal1326 · profile README
-  Assets wired via /assets.
+  Assets wired via /assets. Fill the two TODOs:
+     · your-email@gmail.com   → real email
+     · RESUME_URL             → résumé link
 ────────────────────────────────────────────────────────────
 -->
 
@@ -82,7 +84,7 @@ tooling     Docker · Git · Linux · Vercel
 
 <br/><br/>
 
-[LinkedIn](https://linkedin.com/in/pranavpanchal1326) &nbsp;·&nbsp; [X](https://x.com/PranavP70219) &nbsp;·&nbsp; [Portfolio](https://pranav-portfollio.web.app) &nbsp;·&nbsp; [Email](mailto:pranavpanchal1326@gmail.com)
+[LinkedIn](https://linkedin.com/in/pranavpanchal1326) &nbsp;·&nbsp; [X](https://x.com/PranavP70219) &nbsp;·&nbsp; [Portfolio](https://pranav-portfollio.web.app) &nbsp;·&nbsp; [Email](mailto:your-email@gmail.com) &nbsp;·&nbsp; [Résumé](RESUME_URL)
 
 <br/>
 
