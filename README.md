@@ -1,169 +1,137 @@
+<!--
+────────────────────────────────────────────────────────────
+  PRANAV PANCHAL · github.com/pranavpanchal1326 · profile README
+  Style: electric ultramarine on black · monospace · numbered blocks
+  Assets live in /assets — already wired.
+────────────────────────────────────────────────────────────
+-->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/banner.jpg" width="800" alt="Pranav Panchal" />
+
+<img src="assets/aurora.jpg" width="100%" alt="" />
+
+<br/><br/>
+
+<code>OPEN&nbsp;SOURCE&nbsp;&nbsp;•&nbsp;&nbsp;BUILDING&nbsp;IN&nbsp;PUBLIC&nbsp;&nbsp;•&nbsp;&nbsp;PUNE,&nbsp;IN</code>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=44&letterSpacing=2px&pause=99999&color=4F5BFF&center=true&vCenter=true&repeat=false&width=780&height=64&lines=PRANAV+PANCHAL" alt="PRANAV PANCHAL" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=1400&color=8A93B0&center=true&vCenter=true&width=780&height=26&lines=The+engineer+that+ships+with+you." alt="" />
+
+<br/>
+
+<code>/\-_=+|&lt; -/= ~:*-/ &nbsp;•&nbsp; AI/ML &nbsp;•&nbsp; SYSTEMS &nbsp;•&nbsp; FOUNDER-IN-PROGRESS &nbsp; /\-_=+|&lt; -/=</code>
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=58C4DD&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pranav+Panchal+%E2%80%94;I+build+systems+that+think%2C+decide+%26+act.;ML+Engineer+%7C+AI+Architect+%7C+CS+Student;DES+Pune+University+%7C+Open+to+Internships" alt="Typing SVG" />
-</div>
+<br/>
 
+```bash
+$ whoami
+> pranav — builds production systems, not demos.
+$ cat ~/focus.txt
+> retrieval · multi-agent pipelines · explainable ML · dark, deliberate design
+$ echo $NORTH_STAR
+> a company of my own — everything here is a rehearsal for it
+```
 
+<br/>
 
----
+<div align="center"><code> S E L E C T E D &nbsp; W O R K </code></div>
 
-### `[ WHOAMI ]`
+<br/>
 
-<div align="center">
-<table>
-  <tr>
-    <td width="55%" valign="top" align="left">
-      I'm a CS student at <strong>DES Pune University, Pune</strong> who builds software that does more than run — it <strong>thinks, decides, and acts.</strong>
-      <br/><br/>
-      I've shipped fully offline AI companions that initiate their own conversations, B2B SaaS platforms for enterprise-grade property valuation, multi-agent credit systems reconstructing financial identity for India's ghost MSMEs, and fraud detection engines targeting the 72-hour window before illicit UPI funds arrive. I don't prototype — I ship.
-      <br/><br/>
-      <blockquote><em>When I'm not architecting ML pipelines, I'm probably thinking three moves ahead on Chess.com.</em></blockquote>
-    </td>
-    <td width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/main/se.jpg" width="380" />
-    </td>
-  </tr>
+<table border="0">
+<tr>
+<td width="52%" valign="middle"><img src="assets/knight.jpg" width="100%" alt="" /></td>
+<td width="48%" valign="middle">
+
+<code># 01 · DETECT</code>
+
+## ARGUS-PRISM
+
+A five-engine, pre-crime mule-account detection system — flow-graph analysis, behavioural signals, taint propagation, and recruiter-network mapping, working in concert.
+
+**National finalist, iDEA 2.0** (Union Bank of India).
+
+<a href="https://github.com/pranavpanchal1326/ARGUS-PRISM"><code>&nbsp;view repo&nbsp;→&nbsp;</code></a>
+
+</td>
+</tr>
 </table>
-</div>
 
----
-
-### `[ ARSENAL ]`
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=58C4DD)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=58C4DD)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=58C4DD)
 <br/>
 
-**AI / ML**
+<table border="0">
+<tr>
+<td width="48%" valign="middle">
 
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-0a0a0a?style=for-the-badge&logo=openai&logoColor=58C4DD)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0a0a0a?style=for-the-badge&logo=opencv&logoColor=58C4DD)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-0a0a0a?style=for-the-badge&logo=pytorch&logoColor=58C4DD)
-![NLP](https://img.shields.io/badge/NLP_Whisper_TTS-0a0a0a?style=for-the-badge&logo=amazon-alexa&logoColor=58C4DD)
-<br/>
+<code># 02 · VALUE</code>
 
-**Backend**
+## PropertyIQ
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=58C4DD)
-![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=58C4DD)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=58C4DD)
-![Socket.io](https://img.shields.io/badge/Socket.io-0a0a0a?style=for-the-badge&logo=socket.io&logoColor=58C4DD)
-<br/>
+A B2B property-valuation platform for Indian banks. ML valuations made trustworthy through SHAP explainability, drift detection, and an interactive geospatial map.
 
-**Frontend**
+**Rigour a lender can actually sign off on.**
 
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=58C4DD)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=58C4DD)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=58C4DD)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=58C4DD)
-<br/>
+<a href="https://github.com/pranavpanchal1326/PropertyIQ"><code>&nbsp;view repo&nbsp;→&nbsp;</code></a>
 
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=58C4DD)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=58C4DD)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=58C4DD)
-<br/>
-
-</div>
-
----
-
-### `[ FLAGSHIP BUILDS ]`
-
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th align="center">⬡</th>
-      <th align="left">Project</th>
-      <th align="left">What it does</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">🏦</td>
-      <td><strong><a href="https://github.com/pranavpanchal1326/shadow-credit">Shadow Credit</a></strong></td>
-      <td>Multi-agent AI that reconstructs credit profiles for India's ghost MSMEs — ingests WhatsApp exports, UPI screenshots & Khata books, outputs bank-grade credit memos in 90 seconds. Built for the unbanked.</td>
-    </tr>
-    <tr>
-      <td align="center">🏢</td>
-      <td><strong><a href="https://github.com/pranavpanchal1326/PropertyIQ">PropertyIQ</a></strong></td>
-      <td>B2B SaaS for Indian banks — real-time property valuation, drift detection, interactive Leaflet.js locality maps, and price forecasting. Enterprise-grade, built from scratch.</td>
-    </tr>
-    <tr>
-      <td align="center">👁️</td>
-      <td><strong><a href="https://github.com/pranavpanchal1326/orby">Orby</a></strong></td>
-      <td>Fully offline AI desktop companion for Windows. Sees your screen, hears your voice, remembers patterns, and initiates conversations — no cloud, no compromise, no data leaving your machine.</td>
-    </tr>
-    <tr>
-      <td align="center">🌐</td>
-      <td><strong><a href="https://github.com/pranavpanchal1326/MeridianAI">MeridianAI</a></strong></td>
-      <td>Active build — fusing Web3 infrastructure with custom ML training pipelines. Architecture-in-progress, shipping soon.</td>
-    </tr>
-  </tbody>
+</td>
+<td width="52%" valign="middle"><img src="assets/void.jpg" width="100%" alt="" /></td>
+</tr>
 </table>
-</div>
 
----
-
-### `[ TELEMETRY ]`
+<br/>
 
 <div align="center">
-  <img
-    src="https://gh-stats.com/api?username=pranavpanchal1326&show_icons=true&hide_border=true&title_color=58C4DD&text_color=58C4DD&bg_color=00000000"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpanchal1326&theme=transparent&hide_border=true&title_color=58C4DD&text_color=58C4DD&sideNums=58C4DD&sideLabels=666666&ring=58C4DD&fire=58C4DD&currStreakNum=58C4DD&dates=555555"
-    width="49%"
-    alt="GitHub Streak"
-  />
+
+<code># 03 · COMPANION</code>
+
+## Orby
+
+An offline Windows AI companion — emotion detection, local speech, a hand-drawn character. A full desktop presence that runs entirely on your machine.
+
 </div>
 
-<div align="center">
-  <img
-    src="https://gh-stats.com/api/top-langs?username=pranavpanchal1326&layout=compact&hide_border=true&title_color=58C4DD&text_color=58C4DD&bg_color=00000000&langs_count=6&hide=html,css"
-    width="55%"
-    alt="Top Languages"
-  />
-</div>
+```bash
+$ orby --start
+> booting companion · no cloud · no leash · 100% local
+```
+
+<div align="center"><a href="https://github.com/pranavpanchal1326/orby"><code>&nbsp;view repo&nbsp;→&nbsp;</code></a></div>
+
+<br/>
+
+<div align="center"><code> C R A F T </code></div>
+
+<br/>
+
+```txt
+LANG    Python · TypeScript
+ML      PyTorch · scikit-learn · XGBoost · OpenCV
+BACK    FastAPI · Flask · Neo4j · PostgreSQL
+FRONT   React · Next.js · Tailwind
+```
+
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/pranavpanchal1326/pranavpanchal1326/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
----
+<code>/\-_=+|&lt; -/= ~:*-/</code>
 
-### `[ CONNECT ]`
+<br/><br/>
 
-<div align="center">
-  <a href="https://x.com/PranavP70219">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=58C4DD" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/pranavpanchal1326">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=58C4DD" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/pranavpanchal1326">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=58C4DD" />
-  </a>
-</div>
+[<code>&nbsp;LINKEDIN&nbsp;</code>](https://linkedin.com/in/pranavpanchal) &nbsp; [<code>&nbsp;X&nbsp;</code>](https://x.com/PranavP70219) &nbsp; [<code>&nbsp;EMAIL&nbsp;</code>](mailto:pranavpanchal1326@gmail.com)
 
-<div align="center">
-  <sub><code>Systems that decide.</code></sub>
+<br/><br/>
+
+<i>Fabricando fit faber.</i><br/>
+<sub>By making, one becomes the maker.</sub>
+
+<br/><br/>
+
+<sub><code>PRANAV PANCHAL · 2026</code></sub>
+
 </div>
