@@ -1,7 +1,8 @@
 <!--
 ────────────────────────────────────────────────────────────
   pranav panchal · profile README
-  assets: aurora.jpg · wordmark.png · knight.jpg · void.jpg · quote.png
+  assets: aurora.jpg · wordmark.png · knight.jpg · void.jpg
+  Quote is the live github-readme-quotes widget (rotates on load).
 ────────────────────────────────────────────────────────────
 -->
 
@@ -23,17 +24,15 @@
 
 ---
 
-<div align="center">
-
-✦&nbsp;&nbsp; <b>T H E&nbsp;&nbsp;P E R S O N</b> &nbsp;✦
-
-</div>
+<div align="center"> ✦&nbsp;&nbsp; <b>T H E&nbsp;&nbsp;P E R S O N</b> &nbsp;✦ </div>
 
 <br/>
 
 <table>
 <tr>
 <td valign="top">
+
+&nbsp;
 
 Final-year computer-science student at **DES Pune University** who got tired of building things that only work in a demo.
 
@@ -42,6 +41,8 @@ I don't write code to pass a viva. I write it to ship systems that hold up under
 My stack is whatever the problem needs. Lately that's **Python · FastAPI · Neo4j · PyTorch**, with a lot of ML glue holding it together.
 
 I move slowly on the things that matter and fast on the things that don't — building toward a company of my own, in public, one shipped product at a time.
+
+&nbsp;
 
 </td>
 <td width="34%" valign="top">
@@ -52,11 +53,7 @@ I move slowly on the things that matter and fast on the things that don't — bu
 
 ---
 
-<div align="center">
-
-✦&nbsp;&nbsp; <b>T H E&nbsp;&nbsp;M I S S I O N</b> &nbsp;✦
-
-</div>
+<div align="center"> ✦&nbsp;&nbsp; <b>T H E&nbsp;&nbsp;M I S S I O N</b> &nbsp;✦ </div>
 
 <br/>
 
@@ -68,11 +65,7 @@ I move slowly on the things that matter and fast on the things that don't — bu
 
 ---
 
-<div align="center">
-
-✦&nbsp;&nbsp; <b>W H A T&nbsp;&nbsp;I ' M&nbsp;&nbsp;B U I L D I N G</b> &nbsp;✦
-
-</div>
+<div align="center"> ✦&nbsp;&nbsp; <b>W H A T&nbsp;&nbsp;I ' M&nbsp;&nbsp;B U I L D I N G</b> &nbsp;✦ </div>
 
 <br/>
 
@@ -80,21 +73,26 @@ I move slowly on the things that matter and fast on the things that don't — bu
 <tr>
 <td width="50%" valign="top">
 
-🛡️ &nbsp; **ARGUS-PRISM**
+&nbsp;
+
+### 🛡️ &nbsp;ARGUS-PRISM
 
 The pre-crime alarm banks don't have.
 
-Flags money-mule accounts **~72h before** illicit funds move, fusing FlowGraph, behavioural WarmthScore signals and taint propagation across five engines.
+Flags money-mule accounts **~72h before** illicit funds move — fusing FlowGraph, behavioural WarmthScore signals and taint propagation across five engines.
 
 `Neo4j` &nbsp;`FastAPI` &nbsp;`XGBoost` &nbsp;`SHAP`
 
-→ [Repository](https://github.com/pranavpanchal1326/ARGUS-PRISM)  
-*iDEA 2.0 · National Finalist*
+→ [Repository](https://github.com/pranavpanchal1326/ARGUS-PRISM) &nbsp; · &nbsp; *iDEA 2.0 · National Finalist*
+
+&nbsp;
 
 </td>
 <td width="50%" valign="top">
 
-🏦 &nbsp; **PropertyIQ**
+&nbsp;
+
+### 🏦 &nbsp;PropertyIQ
 
 Property valuation a bank can actually audit.
 
@@ -104,12 +102,16 @@ A B2B platform pairing ML valuations with SHAP explainability, drift detection a
 
 → [Repository](https://github.com/pranavpanchal1326/PropertyIQ)
 
+&nbsp;
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-🤖 &nbsp; **Orby**
+&nbsp;
+
+### 🤖 &nbsp;Orby
 
 An AI companion that never phones home.
 
@@ -119,8 +121,20 @@ A fully offline Windows desktop companion — emotion detection, local speech, a
 
 → [Repository](https://github.com/pranavpanchal1326/orby)
 
+&nbsp;
+
 </td>
 <td width="50%" valign="top">
+
+&nbsp;
+
+### 🌒 &nbsp;The next one &nbsp; `coming soon`
+
+Something's brewing.
+
+A project that isn't public yet — because it isn't ready to be. Built quietly now; it ships the day it's undeniable.
+
+*Stay tuned. Or don't. Either way it'll land.*
 
 &nbsp;
 
@@ -130,11 +144,7 @@ A fully offline Windows desktop companion — emotion detection, local speech, a
 
 ---
 
-<div align="center">
-
-✦&nbsp;&nbsp; <b>T H E&nbsp;&nbsp;S T A C K</b> &nbsp;✦
-
-</div>
+<div align="center"> ✦&nbsp;&nbsp; <b>T H E&nbsp;&nbsp;S T A C K</b> &nbsp;✦ </div>
 
 <br/>
 
@@ -143,7 +153,9 @@ A fully offline Windows desktop companion — emotion detection, local speech, a
 <td width="46%" valign="middle">
 <img src="assets/void.jpg" width="100%" alt="Lone blue figure seated on a red planet beneath a field of stars" />
 </td>
-<td width="54%" valign="top">
+<td width="54%" valign="middle">
+
+&nbsp;
 
 <b>Languages</b><br/>
 <code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>SQL</code>
@@ -162,6 +174,8 @@ A fully offline Windows desktop companion — emotion detection, local speech, a
 <br/><br/>
 <b>Frontend</b><br/>
 <code>React</code> <code>Next.js</code> <code>Tailwind</code> <code>shadcn/ui</code>
+
+&nbsp;
 
 </td>
 </tr>
@@ -199,6 +213,6 @@ If you need someone who ships complete products and sweats the details — reach
 
 <div align="center">
 
-<img src="assets/quote.png" width="72%" alt="What stands in the way becomes the way. — Marcus Aurelius" />
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
