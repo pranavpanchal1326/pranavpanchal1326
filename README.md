@@ -1,242 +1,433 @@
 <!--
-──────────────────────────────────────────────────────────────────────
-  pranav panchal · profile readme
-  concept — "THE LONG NIGHT"
 
-  the page is one night. four numbered chapters run 22:40 to 06:04,
-  dusk to dawn, and the banner keeps time with the reader:
-      dark mode   moon.jpg      night
-      light mode  blossom.jpg   dawn
+────────────────────────────────────────────────────────────
 
-  RESTRAINT — this page ran eleven plates once. it now runs three.
-  images punctuate, they do not narrate. the theme is carried by
-  structure — the chapter clock, the dawn coda, the banner swap —
-  not by a pile of pictures. everything that was only atmosphere
-  was cut, because atmosphere was crowding out the work.
+  pranav panchal · profile README
 
-  GRID — every division on the page is a twelfth. nothing is eyeballed.
-      4 / 8          about          33 / 67
-      1 / 3 / 6 / 2  work index      8 / 25 / 50 / 17
-      4 / 8          recognition    33 / 67
-      5              coda           42 centred
+  assets: aurora.jpg · wordmark.png · knight.jpg · void.jpg
 
-  TYPE — no image is used to render text. all of it is real,
-  selectable, searchable, screen-readable.
-      masthead    h1, under a hairline rule
-      eyebrow     mono coordinates
-      chapter     h6 + mono, label left, timestamp right
-      rows        number or name left, meta right — one component,
-                  used at two scales
-      data        yaml / console fences, syntax colour is free palette
-      caption     sub
-      links       kbd, renders as physical key caps
+  Quote is the live github-readme-quotes widget (rotates on load).
 
-  GLYPHS — one job each, never mixed. no emoji anywhere on the page.
-      ▍  chapter mark      ·  separator      →  action / link
+────────────────────────────────────────────────────────────
 
-  COPY — every project line and every craft entry comes from the
-  repositories themselves. nothing here is invented.
-
-  IN USE    moon · blossom · knight · void
-  HELD BACK cat · silhouette · passage · asura · oni · koi · icarus
-            all still in assets/. good images, but decoration — the
-            page reads better without them. add one back only if it
-            earns a place.
-  RETIRED   aurora.jpg     palette fights every other image
-            lotus.jpg      burnt-in subtitles, it is a video screengrab
-            wordmark.png   white-on-transparent, invisible to anyone
-                           on light mode. replaced by real text.
-──────────────────────────────────────────────────────────────────────
 -->
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/moon.jpg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/blossom.jpg" />
-  <img src="assets/moon.jpg" width="100%" alt="A full moon breaking through torn clouds" />
-</picture>
-
-<br/><br/><br/>
-
-<sub><code>18.5204&deg; N &nbsp; 73.8567&deg; E</code></sub>
-
-<h1>PRANAV PANCHAL</h1>
-
-</div>
-
-<hr/>
 
 <div align="center">
 
-<sub><code>AI/ML ENGINEER</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>PUNE, IN</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>FINAL-YEAR CS</code></sub>
 
-<br/><br/>
 
-<sub><i>i build production systems, not demos.</i></sub>
+<img src="assets/aurora.jpg" width="86%" alt="Aurora of light bending through deep space" />
+
+
+
+
+
+<img src="assets/wordmark.png" width="190" alt="Pranav Panchal" />
+
+
+
+<br/>
+
+
+
+<sub>ai/ml engineer&nbsp;&nbsp;·&nbsp;&nbsp;i build production systems, not demos&nbsp;&nbsp;·&nbsp;&nbsp;pune, in</sub>
+
+
 
 </div>
 
-<br/>
 
-<table border="0" width="100%">
-<tr>
-<td align="left" width="50%"><h6><code>01</code>&nbsp;&nbsp;▍&nbsp;&nbsp;ABOUT</h6></td>
-<td align="right" width="50%"><h6><code>22:40</code></h6></td>
-</tr>
-</table>
-
-<table border="0">
-<tr>
-<td width="33%" valign="top">
-<img src="assets/knight.jpg" width="100%" alt="An armoured knight resting in the dark, cradling a sleeping cat" />
-</td>
-<td width="67%" valign="top">
-Final-year computer-science student building in <b>AI/ML</b> — retrieval systems, multi-agent pipelines, and models you can actually explain.
-<br/><br/>
-I ship complete products, not demos. I sweat the empty states, the failure paths, and the parts no one applauds but everything depends on.
-<br/><br/>
-<sub>Most of it happens at night, alone, and nobody watches it happen. That is the job.</sub>
-</td>
-</tr>
-</table>
-
-```console
-$ pranav --status
-→ role       ai/ml engineer · final-year cs
-→ open to    internships & serious collaborators
-→ stack      python · pytorch · fastapi · neo4j
-→ hours      late
-→ reach      linkedin / x
-```
 
 <br/>
 
-<table border="0" width="100%">
+
+
+---
+
+
+
+<div align="center"> ✦&nbsp;&nbsp; <b>T H E&nbsp;&nbsp;P E R S O N</b> &nbsp;✦ </div>
+
+
+
+<br/>
+
+
+
+<table>
+
 <tr>
-<td align="left" width="50%"><h6><code>02</code>&nbsp;&nbsp;▍&nbsp;&nbsp;SELECTED WORK</h6></td>
-<td align="right" width="50%"><h6><code>00:15</code></h6></td>
+
+<td valign="top">
+
+
+
+&nbsp;
+
+
+
+Final-year computer-science student at **DES Pune University** who got tired of building things that only work in a demo.
+
+
+
+I don't write code to pass a viva. I write it to ship systems that hold up under real users — fraud detection that catches mules before money moves, valuation models a bank can actually audit, an AI companion that runs with no cloud behind it.
+
+
+
+My stack is whatever the problem needs. Lately that's **Python · FastAPI · Neo4j · PyTorch**, with a lot of ML glue holding it together.
+
+
+
+I move slowly on the things that matter and fast on the things that don't — building toward a company of my own, in public, one shipped product at a time.
+
+
+
+&nbsp;
+
+
+
+</td>
+
+<td width="34%" valign="top">
+
+<img src="assets/knight.jpg" width="100%" alt="Armoured knight resting in the dark, cradling a cat" />
+
+</td>
+
 </tr>
+
 </table>
 
-<table border="0" width="100%">
+
+
+---
+
+
+
+<div align="center"> ✦&nbsp;&nbsp; <b>T H E&nbsp;&nbsp;M I S S I O N</b> &nbsp;✦ </div>
+
+
+
+<br/>
+
+
+
+> **The goal is a technology company — not a portfolio of demos.**
+
+>
+
+> Tools developers reach for. Products people pay for. Systems that keep standing once I step away from the keyboard.
+
+>
+
+> *Still a student. Still early. Shipping in public until the work speaks for itself.*
+
+
+
+---
+
+
+
+<div align="center"> ✦&nbsp;&nbsp; <b>W H A T&nbsp;&nbsp;I ' M&nbsp;&nbsp;B U I L D I N G</b> &nbsp;✦ </div>
+
+
+
+<br/>
+
+
+
+<table>
 
 <tr>
-<td width="8%" valign="top"><sub><code>001</code></sub></td>
-<td width="25%" valign="top"><b>ARGUS&#8209;PRISM</b></td>
+
 <td width="50%" valign="top">
-<sub>Mule-account detection and anti-money-laundering intelligence for retail banking.</sub>
+
+
+
+&nbsp;
+
+
+
+### 🛡️ &nbsp;ARGUS-PRISM
+
+
+
+The pre-crime alarm banks don't have.
+
+
+
+Flags money-mule accounts **~72h before** illicit funds move — fusing FlowGraph, behavioural WarmthScore signals and taint propagation across five engines.
+
+
+
+`Neo4j` &nbsp;`FastAPI` &nbsp;`XGBoost` &nbsp;`SHAP`
+
+
+
+→ [Repository](https://github.com/pranavpanchal1326/ARGUS-PRISM) &nbsp; · &nbsp; *iDEA 2.0 · National Finalist*
+
+
+
+&nbsp;
+
+
+
 </td>
-<td width="17%" valign="top" align="right">
-<sub><a href="https://github.com/pranavpanchal1326/ARGUS-PRISM">repository&nbsp; →</a></sub>
+
+<td width="50%" valign="top">
+
+
+
+&nbsp;
+
+
+
+### 🏦 &nbsp;PropertyIQ
+
+
+
+Property valuation a bank can actually audit.
+
+
+
+A B2B platform pairing ML valuations with SHAP explainability, drift detection and an interactive map — built for Indian lenders.
+
+
+
+`FastAPI` &nbsp;`React` &nbsp;`PostgreSQL` &nbsp;`Leaflet`
+
+
+
+→ [Repository](https://github.com/pranavpanchal1326/PropertyIQ)
+
+
+
+&nbsp;
+
+
+
 </td>
+
 </tr>
 
 <tr>
-<td valign="top"><sub><code>002</code></sub></td>
-<td valign="top"><b>Nemesis</b></td>
-<td valign="top">
-<sub>Civic-ops agent that turns citizen infrastructure reports into verified, severity-scored work orders, then proves they were fixed.</sub>
-</td>
-<td valign="top" align="right">
-<sub><a href="https://github.com/pranavpanchal1326/Nemesis">repository&nbsp; →</a></sub>
-</td>
-</tr>
 
-<tr>
-<td valign="top"><sub><code>003</code></sub></td>
-<td valign="top"><b>Sarkaar Saathi</b></td>
-<td valign="top">
-<sub>Entitlements agent for India. Listens in Hindi, Marathi or Hinglish, and cites the clause of the government order that proves the claim.</sub>
-</td>
-<td valign="top" align="right">
-<sub><a href="https://github.com/pranavpanchal1326/Sarkaar-sathi">repository&nbsp; →</a></sub>
-</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td valign="top"><sub><code>004</code></sub></td>
-<td valign="top"><b>Orby</b></td>
-<td valign="top">
-<sub>Offline desktop companion for Windows. Sees context, hears voice, remembers patterns, and starts conversations on its own.</sub>
+
+
+&nbsp;
+
+
+
+### 🤖 &nbsp;Orby
+
+
+
+An AI companion that never phones home.
+
+
+
+A fully offline Windows desktop companion — emotion detection, local speech, and an animated character. No cloud; nothing leaves your machine.
+
+
+
+`PyQt6` &nbsp;`Vosk` &nbsp;`Kokoro-TTS` &nbsp;`OpenCV`
+
+
+
+→ [Repository](https://github.com/pranavpanchal1326/orby)
+
+
+
+&nbsp;
+
+
+
 </td>
-<td valign="top" align="right">
-<sub><a href="https://github.com/pranavpanchal1326/orby">repository&nbsp; →</a></sub>
+
+<td width="50%" valign="top">
+
+
+
+&nbsp;
+
+
+
+### 🌒 &nbsp;The next one &nbsp; `coming soon`
+
+
+
+Something's brewing.
+
+
+
+A project that isn't public yet — because it isn't ready to be. Built quietly now; it ships the day it's undeniable.
+
+
+
+*Stay tuned. Or don't. Either way it'll land.*
+
+
+
+&nbsp;
+
+
+
 </td>
+
 </tr>
 
 </table>
+
+
+
+---
+
+
+
+<div align="center"> ✦&nbsp;&nbsp; <b>T H E&nbsp;&nbsp;S T A C K</b> &nbsp;✦ </div>
+
+
 
 <br/>
 
-<table border="0" width="100%">
+
+
+<table>
+
 <tr>
-<td align="left" width="50%"><h6><code>03</code>&nbsp;&nbsp;▍&nbsp;&nbsp;CRAFT</h6></td>
-<td align="right" width="50%"><h6><code>02:30</code></h6></td>
+
+<td width="46%" valign="middle">
+
+<img src="assets/void.jpg" width="100%" alt="Lone blue figure seated on a red planet beneath a field of stars" />
+
+</td>
+
+<td width="54%" valign="middle">
+
+
+
+&nbsp;
+
+
+
+<b>Languages</b><br/>
+
+<code>Python</code> <code>TypeScript</code> <code>JavaScript</code> <code>SQL</code>
+
+<br/><br/>
+
+<b>ML / AI</b><br/>
+
+<code>PyTorch</code> <code>scikit-learn</code> <code>XGBoost</code> <code>SHAP</code> <code>OpenCV</code>
+
+<br/><br/>
+
+<b>LLM</b><br/>
+
+<code>Claude API</code> <code>RAG</code> <code>PaddleOCR</code> <code>Hugging Face</code>
+
+<br/><br/>
+
+<b>Backend</b><br/>
+
+<code>FastAPI</code> <code>Flask</code> <code>Node.js</code>
+
+<br/><br/>
+
+<b>Data</b><br/>
+
+<code>Neo4j</code> <code>PostgreSQL</code>
+
+<br/><br/>
+
+<b>Frontend</b><br/>
+
+<code>React</code> <code>Next.js</code> <code>Tailwind</code> <code>shadcn/ui</code>
+
+
+
+&nbsp;
+
+
+
+</td>
+
 </tr>
+
 </table>
 
-```yaml
-languages:   python  ·  javascript
-ml:          pytorch  ·  xgboost  ·  opencv  ·  local llms
-serving:     fastapi
-streaming:   kafka  ·  flink
-graph:       neo4j
-interface:   react  ·  pyqt6
-```
 
-<br/>
 
-<table border="0" width="100%">
-<tr>
-<td align="left" width="50%"><h6><code>04</code>&nbsp;&nbsp;▍&nbsp;&nbsp;RECOGNITION</h6></td>
-<td align="right" width="50%"><h6><code>04:20</code></h6></td>
-</tr>
-</table>
+---
 
-<table border="0" width="100%">
-<tr>
-<td width="33%" valign="top"><b>iDEA 2.0</b></td>
-<td width="67%" valign="top"><sub>Union Bank of India — national finalist, ARGUS-PRISM</sub></td>
-</tr>
-<tr>
-<td valign="top"><b>Orchestron 2026</b></td>
-<td valign="top"><sub>Agentic AI</sub></td>
-</tr>
-<tr>
-<td valign="top"><b>NAV-उन्मेष 2026</b></td>
-<td valign="top"><sub>Startup pitch</sub></td>
-</tr>
-<tr>
-<td valign="top"><b>AWS &amp; Replit</b></td>
-<td valign="top"><sub>Hackathons — Sarkaar Saathi, Legacy</sub></td>
-</tr>
-</table>
 
-<br/>
-
-<table border="0" width="100%">
-<tr>
-<td align="left" width="50%"><h6><code>—</code>&nbsp;&nbsp;▍&nbsp;&nbsp;DAWN</h6></td>
-<td align="right" width="50%"><h6><code>06:04</code></h6></td>
-</tr>
-</table>
 
 <div align="center">
 
-<img src="assets/void.jpg" width="42%" alt="A lone blue figure seated on a red planet beneath a field of stars" />
+
+
+✦&nbsp;&nbsp; <b>L E T ' S&nbsp;&nbsp;T A L K</b> &nbsp;✦
+
+
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/pranavpanchal1326"><kbd>&nbsp; LINKEDIN &nbsp;</kbd></a>
-&nbsp;&nbsp;
-<a href="https://x.com/PranavP70219"><kbd>&nbsp; X &nbsp;</kbd></a>
-&nbsp;&nbsp;
-<a href="https://pranav-portfollio.web.app"><kbd>&nbsp; PORTFOLIO &nbsp;</kbd></a>
 
-<br/><br/>
 
-<i>fabricando fit faber.</i><br/>
-<sub>by making, one becomes the maker.</sub>
+I'm open to <b>AI/ML internships, collaborations, and conversations</b> with people building something genuinely hard.
+
+
+
+If you're working on fraud &amp; risk ML, applied AI, or developer tooling — I want to hear about it.
+
+
+
+If you need someone who ships complete products and sweats the details — reach out.
+
+
+
+<br/>
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavpanchal1326)
+
+&nbsp;
+
+[![X](https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=white)](https://x.com/PranavP70219)
+
+&nbsp;
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://pranav-portfollio.web.app)
+
+&nbsp;
+
+[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:pranavpanchal1326@gmail.com)
+
+
+
+</div>
+
+
+
+---
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
 </div>
