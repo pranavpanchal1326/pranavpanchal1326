@@ -3,49 +3,45 @@
   pranav panchal · profile readme
   concept — "THE LONG NIGHT"
 
-  every image kept here is the same picture: a lone figure, in the dark,
-  unwatched. the page is built as a single night — five numbered
-  chapters running 22:40 to 06:04, dusk to dawn. the tension between
-  painterly art and terminal typography is the design.
-
-  the banner keeps time with the reader, and the arc closes on itself:
+  the page is one night. four numbered chapters run 22:40 to 06:04,
+  dusk to dawn, and the banner keeps time with the reader:
       dark mode   moon.jpg      night
       light mode  blossom.jpg   dawn
 
+  RESTRAINT — this page ran eleven plates once. it now runs three.
+  images punctuate, they do not narrate. the theme is carried by
+  structure — the chapter clock, the dawn coda, the banner swap —
+  not by a pile of pictures. everything that was only atmosphere
+  was cut, because atmosphere was crowding out the work.
+
   GRID — every division on the page is a twelfth. nothing is eyeballed.
-      5 / 7          about          42 / 58
-      8 / 4          status         67 / 33
-      1 / 3 / 6 / 2  work index     8 / 25 / 50 / 17
-      4 / 4 / 4      triptych       33 / 33 / 33
-      6 / 6          craft          50 / 50
+      4 / 8          about          33 / 67
+      1 / 3 / 6 / 2  work index      8 / 25 / 50 / 17
       4 / 8          recognition    33 / 67
-      8              coda           67 centred
+      5              coda           42 centred
 
   TYPE — no image is used to render text. all of it is real,
   selectable, searchable, screen-readable.
       masthead    h1, under a hairline rule
       eyebrow     mono coordinates
       chapter     h6 + mono, label left, timestamp right
-      work        index row — number left, meta right. same component
-                  language as the chapter rule, one level down.
+      rows        number or name left, meta right — one component,
+                  used at two scales
       data        yaml / console fences, syntax colour is free palette
       caption     sub
       links       kbd, renders as physical key caps
 
   GLYPHS — one job each, never mixed. no emoji anywhere on the page.
-      ▍  chapter mark      ·  separator
-      →  action / link     ◦  list bullet
+      ▍  chapter mark      ·  separator      →  action / link
 
-  TRIPTYCH — ordered by height, tallest to shortest, so the ragged
-  bottom edge becomes a deliberate descending stair. asura sits last:
-  shortest plate, and the only bright one, so the row lands on an
-  accent instead of drifting.
-
-  COPY — every project line and every craft entry is taken from the
+  COPY — every project line and every craft entry comes from the
   repositories themselves. nothing here is invented.
 
-  IN USE    moon · blossom · knight · cat · silhouette · passage ·
-            asura · oni · koi · icarus · void
+  IN USE    moon · blossom · knight · void
+  HELD BACK cat · silhouette · passage · asura · oni · koi · icarus
+            all still in assets/. good images, but decoration — the
+            page reads better without them. add one back only if it
+            earns a place.
   RETIRED   aurora.jpg     palette fights every other image
             lotus.jpg      burnt-in subtitles, it is a video screengrab
             wordmark.png   white-on-transparent, invisible to anyone
@@ -81,7 +77,7 @@
 
 </div>
 
-<br/><br/>
+<br/>
 
 <table border="0" width="100%">
 <tr>
@@ -92,11 +88,10 @@
 
 <table border="0">
 <tr>
-<td width="42%" valign="top">
+<td width="33%" valign="top">
 <img src="assets/knight.jpg" width="100%" alt="An armoured knight resting in the dark, cradling a sleeping cat" />
 </td>
-<td width="58%" valign="top">
-<br/>
+<td width="67%" valign="top">
 Final-year computer-science student building in <b>AI/ML</b> — retrieval systems, multi-agent pipelines, and models you can actually explain.
 <br/><br/>
 I ship complete products, not demos. I sweat the empty states, the failure paths, and the parts no one applauds but everything depends on.
@@ -105,10 +100,6 @@ I ship complete products, not demos. I sweat the empty states, the failure paths
 </td>
 </tr>
 </table>
-
-<table border="0">
-<tr>
-<td width="67%" valign="top">
 
 ```console
 $ pranav --status
@@ -119,14 +110,7 @@ $ pranav --status
 → reach      linkedin / x
 ```
 
-</td>
-<td width="33%" valign="top">
-<img src="assets/cat.jpg" width="100%" alt="Vintage Japanese poster of a black cat smoking a cigarette" />
-</td>
-</tr>
-</table>
-
-<br/><br/>
+<br/>
 
 <table border="0" width="100%">
 <tr>
@@ -139,10 +123,7 @@ $ pranav --status
 
 <tr>
 <td width="8%" valign="top"><sub><code>001</code></sub></td>
-<td width="25%" valign="top">
-<b>ARGUS&#8209;PRISM</b><br/>
-<sub><code>python</code></sub>
-</td>
+<td width="25%" valign="top"><b>ARGUS&#8209;PRISM</b></td>
 <td width="50%" valign="top">
 <sub>Mule-account detection and anti-money-laundering intelligence for retail banking.</sub>
 </td>
@@ -153,10 +134,7 @@ $ pranav --status
 
 <tr>
 <td valign="top"><sub><code>002</code></sub></td>
-<td valign="top">
-<b>Nemesis</b><br/>
-<sub><code>python</code></sub>
-</td>
+<td valign="top"><b>Nemesis</b></td>
 <td valign="top">
 <sub>Civic-ops agent that turns citizen infrastructure reports into verified, severity-scored work orders, then proves they were fixed.</sub>
 </td>
@@ -167,10 +145,7 @@ $ pranav --status
 
 <tr>
 <td valign="top"><sub><code>003</code></sub></td>
-<td valign="top">
-<b>Sarkaar Saathi</b><br/>
-<sub><code>python</code></sub>
-</td>
+<td valign="top"><b>Sarkaar Saathi</b></td>
 <td valign="top">
 <sub>Entitlements agent for India. Listens in Hindi, Marathi or Hinglish, and cites the clause of the government order that proves the claim.</sub>
 </td>
@@ -181,10 +156,7 @@ $ pranav --status
 
 <tr>
 <td valign="top"><sub><code>004</code></sub></td>
-<td valign="top">
-<b>Orby</b><br/>
-<sub><code>python</code></sub>
-</td>
+<td valign="top"><b>Orby</b></td>
 <td valign="top">
 <sub>Offline desktop companion for Windows. Sees context, hears voice, remembers patterns, and starts conversations on its own.</sub>
 </td>
@@ -195,40 +167,12 @@ $ pranav --status
 
 </table>
 
-<br/><br/>
+<br/>
 
 <table border="0" width="100%">
 <tr>
-<td align="left" width="50%"><h6><code>03</code>&nbsp;&nbsp;▍&nbsp;&nbsp;THE LONG NIGHT</h6></td>
+<td align="left" width="50%"><h6><code>03</code>&nbsp;&nbsp;▍&nbsp;&nbsp;CRAFT</h6></td>
 <td align="right" width="50%"><h6><code>02:30</code></h6></td>
-</tr>
-</table>
-
-<table border="0">
-<tr>
-<td width="33%" valign="top"><img src="assets/silhouette.jpg" width="100%" alt="A glowing white silhouette standing alone against a dark night sky" /></td>
-<td width="33%" valign="top"><img src="assets/passage.jpg" width="100%" alt="A blurred figure walking through a doorway as papers fly around him" /></td>
-<td width="33%" valign="top"><img src="assets/asura.jpg" width="100%" alt="High-contrast poster collage of a crowned figure in red and orange" /></td>
-</tr>
-</table>
-
-<div align="center">
-<sub>alone&nbsp;&nbsp;→&nbsp;&nbsp;moving through&nbsp;&nbsp;→&nbsp;&nbsp;lit up</sub>
-</div>
-
-<br/><br/>
-
-<table border="0" width="100%">
-<tr>
-<td align="left" width="50%"><h6><code>04</code>&nbsp;&nbsp;▍&nbsp;&nbsp;CRAFT</h6></td>
-<td align="right" width="50%"><h6><code>03:50</code></h6></td>
-</tr>
-</table>
-
-<table border="0">
-<tr>
-<td width="50%" valign="top"><img src="assets/oni.jpg" width="100%" alt="A red oni mask rendered in ukiyo-e linework among curling clouds" /></td>
-<td width="50%" valign="top"><img src="assets/koi.jpg" width="100%" alt="Two koi turning through dark waves scattered with red maple leaves" /></td>
 </tr>
 </table>
 
@@ -241,38 +185,35 @@ graph:       neo4j
 interface:   react  ·  pyqt6
 ```
 
-<br/><br/>
+<br/>
 
 <table border="0" width="100%">
 <tr>
-<td align="left" width="50%"><h6><code>05</code>&nbsp;&nbsp;▍&nbsp;&nbsp;RECOGNITION</h6></td>
-<td align="right" width="50%"><h6><code>05:10</code></h6></td>
+<td align="left" width="50%"><h6><code>04</code>&nbsp;&nbsp;▍&nbsp;&nbsp;RECOGNITION</h6></td>
+<td align="right" width="50%"><h6><code>04:20</code></h6></td>
 </tr>
 </table>
 
-<table border="0">
+<table border="0" width="100%">
 <tr>
-<td width="33%" valign="top">
-<img src="assets/icarus.jpg" width="100%" alt="A classical painting of a winged figure falling through cloud and light" />
-</td>
-<td width="67%" valign="top">
-<br/>
-<sub>
-◦&nbsp; <b>iDEA 2.0</b> (Union Bank of India) — national finalist, ARGUS-PRISM
-<br/><br/>
-◦&nbsp; <b>Orchestron 2026</b> · Agentic AI
-<br/><br/>
-◦&nbsp; <b>NAV-उन्मेष 2026</b> · startup pitch
-<br/><br/>
-◦&nbsp; <b>AWS &amp; Replit</b> hackathons — Sarkaar Saathi, Legacy
-</sub>
-<br/><br/>
-<sub><i>fly close enough to feel it.</i></sub>
-</td>
+<td width="33%" valign="top"><b>iDEA 2.0</b></td>
+<td width="67%" valign="top"><sub>Union Bank of India — national finalist, ARGUS-PRISM</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Orchestron 2026</b></td>
+<td valign="top"><sub>Agentic AI</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>NAV-उन्मेष 2026</b></td>
+<td valign="top"><sub>Startup pitch</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>AWS &amp; Replit</b></td>
+<td valign="top"><sub>Hackathons — Sarkaar Saathi, Legacy</sub></td>
 </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 <table border="0" width="100%">
 <tr>
@@ -283,9 +224,9 @@ interface:   react  ·  pyqt6
 
 <div align="center">
 
-<img src="assets/void.jpg" width="67%" alt="A lone blue figure seated on a red planet beneath a field of stars" />
+<img src="assets/void.jpg" width="42%" alt="A lone blue figure seated on a red planet beneath a field of stars" />
 
-<br/><br/><br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/pranavpanchal1326"><kbd>&nbsp; LINKEDIN &nbsp;</kbd></a>
 &nbsp;&nbsp;
@@ -293,7 +234,7 @@ interface:   react  ·  pyqt6
 &nbsp;&nbsp;
 <a href="https://pranav-portfollio.web.app"><kbd>&nbsp; PORTFOLIO &nbsp;</kbd></a>
 
-<br/><br/><br/>
+<br/><br/>
 
 <i>fabricando fit faber.</i><br/>
 <sub>by making, one becomes the maker.</sub>
